@@ -1,0 +1,119 @@
+{
+  "stores": [
+    {
+      "name": "Store 1",
+      "distance": "10km",
+      "cost": "Rs.50",
+      "time": "15mins",
+      "recipe": {
+        "name": "Recipe 1",
+        "ingredients": [
+          {
+            "name": "Ingredient 1",
+            "discount":20
+          },
+         
+          {
+            "name": "Ingredient 2",
+            "discount":60
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store 2",
+      "distance": "10km",
+      "cost": "Rs.50",
+      "time": "15mins",
+      "recipe": {
+        "name": "Recipe 2",
+        "ingredients": [
+          {
+            "name": "Ingredient 1",
+            "discount":20
+          },
+          {
+            "name": "Ingredient 2",
+            "discount":70
+          }
+
+        ]
+      }
+    },
+    {
+      "name": "Store 3",
+      "distance": "10km",
+      "cost": "Rs.50",
+      "time": "15mins",
+      "recipe": {
+        "name": "Recipe 3",
+        "ingredients": [
+          {
+            "name": "Ingredient 1",
+            "discount":20
+          },
+          
+          {
+            "name": "Ingredient 2",
+            "discount":60
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store 4",
+      "distance": "10km",
+      "cost": "Rs.50",
+      "time": "15mins",
+      "recipe": {
+        "name": "Recipe 4",
+        "ingredients": [
+          {
+            "name": "Ingredient 1",
+            "discount":20
+          },
+          {
+            "name": "Ingredient 2",
+            "discount":40
+          }
+        ]
+      }
+    },
+    {
+      "name": "Store 5",
+      "distance": "10km",
+      "cost": "Rs.50",
+      "time": "15mins",
+      "recipe": {
+        "name": "Recipe 5",
+        "ingredients": [
+          {
+            "name": "Ingredient 1",
+            "discount":20
+          },
+          {
+            "name": "Ingredient 2",
+            "discount":30
+          }
+        ]
+      }
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Recipe 1"
+    },
+    {
+      "name": "Recipe 2"
+    },
+    {
+      "name": "Recipe 3"
+    },
+    {
+      "name": "Recipe 4"
+    },
+    {
+      "name": "Recipe 5"
+    }
+  ]
+}
